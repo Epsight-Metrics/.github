@@ -20,7 +20,7 @@ Sistem manajemen inspeksi dimensi berbasis web yang terintegrasi dengan kamera u
 ```
 epsight-metrics/
 ├── epsight-metric-frontend/    # SvelteKit Frontend
-└── epsight-metrics-be/          # Express.js Backend + Prisma ORM
+└── epsight-metrics-backend/          # Express.js Backend + Prisma ORM
 ```
 
 ### Tech Stack
@@ -49,7 +49,7 @@ epsight-metrics/
 ### Backend Setup
 
 ```bash
-cd epsight-metrics-be
+cd epsight-metrics-backend
 
 # Install dependencies
 npm install
