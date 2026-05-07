@@ -22,10 +22,11 @@ EPSight Metrics adalah sistem manajemen inspeksi dimensi yang dirancang khusus u
 
 ## 🚀 Repositories
 
-### [epsight-metrics](https://github.com/Epsight-Metrics/epsight-metrics)
-Monorepo utama yang berisi:
-- **Frontend** - SvelteKit application
-- **Backend** - Express.js + Prisma ORM + PostgreSQL
+### [epsight-metric-frontend](https://github.com/Epsight-Metrics/epsight-metric-frontend)
+**Frontend Application** - SvelteKit-based web interface untuk quality control inspection system
+
+### [epsight-metric-backend](https://github.com/Epsight-Metrics/epsight-metric-backend)
+**Backend API** - Express.js REST API dengan Prisma ORM dan PostgreSQL database
 
 ---
 
