@@ -89,8 +89,6 @@ Proprietary - PT. Indonesia Epson Industry
 
 <div align="center">
 
-**Version 2.0** | Last Updated: 2025
-
-Made with ❤️ for Quality Excellence
+**Version 1.0** | Last Updated: 2026
 
 </div>
