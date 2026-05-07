@@ -229,9 +229,9 @@ Proprietary - PT. Indonesia Epson Industry
 
 ## 👥 Team
 
-Developed for PT. Indonesia Epson Industry Quality Control Department
+-
 
 ---
 
-**Version:** 2.0  
-**Last Updated:** 2025
+**Version:** 1.0  
+**Last Updated:** 2026
